@@ -10,4 +10,4 @@
 ![Main Window with Filter](./assets/file-2.png)
 
 ### Demo 
-![Demo](https://youtu.be/RzgJp0TI-5Q?si=WozvEYUivV6pWNP1)
+![Demo][![image](https://github.com/user-attachments/assets/98a67a00-f6f6-4300-9111-51a13edb3477)](https://youtu.be/RzgJp0TI-5Q?si=WozvEYUivV6pWNP1)
